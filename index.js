@@ -19,4 +19,9 @@ const CARS = [ {
     year :  '2001',
 } ];
 
-function 
+const car = function addCar(make, price, year) {
+    make = "",
+    price = "",
+    year = ""
+    return(addCar)
+}
